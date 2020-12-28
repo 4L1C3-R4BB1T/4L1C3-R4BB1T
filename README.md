@@ -12,10 +12,10 @@ console.log('Hello World! 👋');
 <p align="center">Jokes apart, hi! My name is Livia and I'm a programming student from Brazil.</p>
 
 <img align="left" height="90" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/master/assets/newgame2.jpg"> 
-I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program on these languages perfectly.
+<br>I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program on these languages perfectly.
 
 <img align="right" height="90" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/master/assets/newgame1.png"> 
-<strong>Why programmation?</strong>
+<br><strong>Why programmation?</strong>
 
 I always had love puzzles and solve problems, so programming is a real amusement park for me.
 
