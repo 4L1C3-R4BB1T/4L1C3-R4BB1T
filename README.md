@@ -15,11 +15,11 @@ console.log('Hello World! 👋');
 <br>I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program on these languages perfectly.
 
 <img align="right" height="90" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/master/assets/newgame1.png"> 
-<br><strong>Why programmation?</strong>
+<br><strong>Why programming?</strong> 
 
 I always had love puzzles and solve problems, so programming is a real amusement park for me.
 
-<br>Of course programming is completely different from animes, but it's still cool, right?
+<br>Of course, programming in real life is completely different from programming in animes (sometimes), but it's still cool, right?
 
 <h3 align="center"><strong>SO, LET'S CODE!</strong></h3>
 <p align="center"><img height="200" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/master/assets/yukichan.gif"></p>
