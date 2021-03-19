@@ -32,5 +32,5 @@ I always had love puzzles and solve problems, so programming is a real amusement
 
 <br>
 
-![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=9f9f9f&bg_color=151515)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&title_color=ff6600&icon_color=ff6600&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
