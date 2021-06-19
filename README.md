@@ -6,13 +6,13 @@ console.log('Hello World! 👋');
 
 <p align="center">
   <img height="200" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/image.png">
-  <p align="center">(we actually don't have cats but don't tell it anyone)</p>
+  <p align="center">(we actually don't have cats, but don't tell it anyone)</p>
 </p>
 
 <p align="center">Jokes apart, hi! My name is Livia and I'm a programming student from Brazil.</p>
 
 <img align="left" height="90" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame2.jpg"> 
-<br>I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program on these languages perfectly.
+<br>I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program in these languages perfectly.
 
 <img align="right" height="90" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame1.png"> 
 <br><strong>Why programming?</strong> 
@@ -32,5 +32,5 @@ I always had love puzzles and solve problems, so programming is a real amusement
 
 <br>
 
-![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=9f9f9f&bg_color=151515)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&title_color=ff6600&icon_color=ff6600&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
