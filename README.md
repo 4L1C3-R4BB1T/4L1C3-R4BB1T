@@ -3,7 +3,6 @@ console.log('Hello World! 👋');
 ```
 
 <div align="center">
-  <p>I'm learning</p>
   <span>
     <img src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-69B04C?style=for-the-badge&logo=spring&logoColor=white"/>  
