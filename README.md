@@ -21,7 +21,7 @@ console.log('Hello World! 👋');
 <div align="center">
   <img height="190" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/image.png">
   <p align="center">
-    (we actually don't have cats, but don't tell it anyone)
+    (we actually don't have cats, but don't tell nobody)
   </p>
 </div>
 <p align="center">
@@ -29,7 +29,7 @@ console.log('Hello World! 👋');
 </p>
 <div>
   <img align="left" height="80" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame2.jpg"> 
-  I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python, but that doesn't mean that I know how to program in these languages perfectly.
+  I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python. I'm currently dedicated to study Java.
 </div>
 <br>
 <br>
@@ -37,7 +37,7 @@ console.log('Hello World! 👋');
   <img align="right" height="80" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame1.png"> 
   <strong>Why programming?</strong>
   <br>
-  I always had love puzzles and solve problems, so programming is a real amusement park for me.
+  I always had love puzzles and to solve problems, so programming is a real amusement park for me.
 </div>
 <br>
 <br>
@@ -52,7 +52,7 @@ console.log('Hello World! 👋');
 </div>
 <br>
 
-- 🌱 I’m currently learning how to play keyboard and more about programming.
+- 🌱 I'm currently learning how to play keyboard and more about programming.
 - 💬 Ask me about whatever you want!
 - ⚡ Fun fact: I'm very good in rhythm games!
 
