@@ -21,7 +21,7 @@ console.log('Hello World! 👋');
 <div align="center">
   <img height="190" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/image.png">
   <p align="center">
-    (we actually don't have cats, but don't tell nobody)
+    (we actually don't have cats, but don't tell anyone)
   </p>
 </div>
 <p align="center">
