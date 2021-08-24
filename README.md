@@ -58,3 +58,4 @@ console.log('Hello World! 👋');
 
 [![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Snake Animation](https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg)](https://github.com/Platane/snk)
