@@ -56,6 +56,6 @@ console.log('Hello World! 👋');
 - 💬 Ask me about whatever you want!
 - ⚡ Fun fact: I'm very good in rhythm games!
 
-[![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Livia Status](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Snake Animation](https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg)](https://github.com/Platane/snk)
