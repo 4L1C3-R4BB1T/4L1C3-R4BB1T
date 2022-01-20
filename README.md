@@ -75,10 +75,10 @@ console.log('Hello World! 👋');
 
 <div align="center">
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight" />
     </a>
   </p>
