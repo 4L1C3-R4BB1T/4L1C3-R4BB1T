@@ -73,15 +73,7 @@ console.log('Hello World! 👋');
 
 <br>
 
-<div align="center">
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight" />
-    </a>
-  </p>
-</div>
+[![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight&line_height=24&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Snake Animation](https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg)](https://github.com/Platane/snk)
