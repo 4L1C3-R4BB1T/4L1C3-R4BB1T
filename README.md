@@ -17,22 +17,8 @@ console.log('Hello World! 👋');
   </span>
 </div>
 
-<h3 align="center">
-  <strong>
-    Welcome to the programming land!<br>
-    Here we have codes, animes and cats!
-  </strong>
-</h3>
-
-<div align="center">
-  <img height="200em" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/image.png" />
-  <p align="center">
-    (we actually don't have cats, but don't tell anyone)
-  </p>
-</div>
-
 <p align="center">
-  Jokes apart, hi! My name is Livia and I'm a programming student from Brazil.
+  JHi! My name is Livia and I'm a programming student from Brazil.
 </p>
 
 <div>
