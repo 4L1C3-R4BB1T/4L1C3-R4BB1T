@@ -16,55 +16,7 @@ console.log('Hello World! 👋');
     <img src="https://img.shields.io/badge/C Sharp-9B4993?style=for-the-badge&logo=csharp&logoColor=white"/>
   </span>
 </div>
-
 <br>
-
-<p align="center">
-  Hi! My name is Livia and I'm a programming student from Brazil.
-</p>
-
-<div>
-  <img align="left" height="100em" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame2.jpg" />
-  <br>
-  I already had contact with C, HTML, CSS, JavaScript, Java, SQL, PHP and Python. I'm currently dedicated to study Java.
-</div>
-
-<br>
-
-<div> 
-  <img align="right" height="100em" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/newgame1.png"> 
-  <br>
-  <strong>
-    Why programming?
-  </strong>
-  <br>
-  I always had love puzzles and to solve problems, so programming is a real amusement park for me.
-</div>
-
-<br><br>
-
-<p>
-  Of course, programming in real life is completely different from programming in animes (sometimes), but it's still cool, right?
-</p>
-
-<h3 align="center">
-  <strong>
-    SO, LET'S CODE!
-  </strong>
-</h3>
-
-<div align="center">
-  <img height="200em" src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/raw/main/assets/yukichan.gif">
-</div>
-
-<br>
-
-- 🌱 I'm currently learning how to play keyboard and more about programming.
-- 💬 Ask me about whatever you want!
-- ⚡ Fun fact: I'm very good in rhythm games!
-
-<br>
-
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
