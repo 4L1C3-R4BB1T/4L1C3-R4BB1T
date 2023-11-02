@@ -17,8 +17,10 @@ console.log('Hello World! 👋');
   </span>
 </div>
 
+<br>
+
 <p align="center">
-  JHi! My name is Livia and I'm a programming student from Brazil.
+  Hi! My name is Livia and I'm a programming student from Brazil.
 </p>
 
 <div>
