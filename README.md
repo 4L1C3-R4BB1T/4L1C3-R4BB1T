@@ -4,7 +4,7 @@ console.log('Hello World! 👋');
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python,html,css,bootstrap,sass,angular,postgres,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python,fastapi,html,css,bootstrap,sass,angular,postgres,docker&theme=light" />
   </a>
 </p>
 <br>
