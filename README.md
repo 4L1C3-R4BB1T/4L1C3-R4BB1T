@@ -21,7 +21,7 @@ console.log('Hello World! 👋');
         <a href="mailto:livinha.guimaraes.013@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
-        <a href="www.linkedin.com/in/livia013">
+        <a href="https://www.linkedin.com/in/livia013" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
         </a>
     </p>
