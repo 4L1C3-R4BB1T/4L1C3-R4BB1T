@@ -28,7 +28,6 @@ console.log('Hello World! 👋');
 </div>
 <br>
 <br>
-<br>
 <div align="center">
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
