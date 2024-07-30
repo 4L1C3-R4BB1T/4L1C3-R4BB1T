@@ -24,6 +24,9 @@ console.log('Hello World! 👋');
         <a href="https://www.linkedin.com/in/livia013">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
         </a>
+        <a href="https://github.com/4L1C3-R4BB1T">
+            <img src="https://img.shields.io/github/followers/4L1C3-R4BB1T?label=follow&style=for-the-badge&logo=github&color=white" />
+        </a>
     </p>
 </div>
 <br>
@@ -38,8 +41,8 @@ console.log('Hello World! 👋');
         </a>
     </p>
 </div>
-<p align="center">
+<div align="center">
     <a href="https://github.com/Platane/snk">
         <img src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg" />
     </a>
-</p>
+</div>
