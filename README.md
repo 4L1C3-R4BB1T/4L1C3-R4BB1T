@@ -4,8 +4,8 @@ console.log('Hello World! 👋');
 <br>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python,fastapi,docker&theme=light" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,postgres,mongo&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python,fastapi,docker&theme=light"><br>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,postgres,mongo&theme=light">
     </a>
 </p>
 <br>
@@ -19,13 +19,13 @@ console.log('Hello World! 👋');
     <p align="left">💌 Onde me encontrar: ⤵️</p>
     <p align="left">    
         <a href="mailto:livinha.guimaraes.013@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+            <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
         <a href="https://www.linkedin.com/in/livia013">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
         </a>
         <a href="https://github.com/4L1C3-R4BB1T">
-            <img src="https://img.shields.io/github/followers/4L1C3-R4BB1T?label=follow&style=for-the-badge&logo=github&color=white" />
+            <img src="https://img.shields.io/github/followers/4L1C3-R4BB1T?label=follow&style=for-the-badge&logo=github&color=white" alt="GitHub Followers">
         </a>
     </p>
 </div>
@@ -34,15 +34,15 @@ console.log('Hello World! 👋');
 <div align="center">
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight" />
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight">
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight" />
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight">
         </a>
     </p>
 </div>
 <div align="center">
     <a href="https://github.com/Platane/snk">
-        <img src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg" />
+        <img src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg">
     </a>
 </div>
