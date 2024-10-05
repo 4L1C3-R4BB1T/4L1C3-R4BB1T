@@ -24,9 +24,6 @@ console.log('Hello World! 👋');
         <a href="https://www.linkedin.com/in/livia013">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
         </a>
-        <a href="https://gitlab.com//4L1C3-R4BB1T">
-            <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-        </a>
     </p>
 </div>
 <br>
