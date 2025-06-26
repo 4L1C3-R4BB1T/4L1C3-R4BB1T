@@ -40,8 +40,8 @@ console.log('Hello World! 👋');
 
 <img src="https://skillicons.dev/icons?i=c&theme=light" />
 
-</br>
-</br>
+---
+
 <div align="center">
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
