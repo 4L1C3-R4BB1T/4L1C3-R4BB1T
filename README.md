@@ -24,17 +24,21 @@ console.log('Hello World! 👋');
 
 ---
 
-### 💻 Back-End
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi&theme=light" />
+### 🧠 Back-End
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi,cs,dotnet&theme=light" />
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,ts&theme=light" />
 
 ### 🛢️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mongo&theme=light" />
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,figma&theme=light" />
+
+### 💻 Outros
+
+<img src="https://skillicons.dev/icons?i=c&theme=light" />
 
 </br>
 </br>
