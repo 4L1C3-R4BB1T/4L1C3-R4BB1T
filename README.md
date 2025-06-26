@@ -1,18 +1,11 @@
 ```js
 console.log('Hello World! 👋');
 ```
-<br>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,nodejs,python,fastapi,docker&theme=light"><br>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,postgres,mongo,figma&theme=light">
-    </a>
-</p>
-<br>
+</br>
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
     <p align="left"> 
-        Olá, me chamo Lívia e atualmente busco me aperfeiçoar na linguagem Java com o framework Spring. Possuo formação técnica em Informática pelo Instituto Federal do Espírito Santo e no momento estou cursando Sistemas de Informação na mesma instituição.
+        Olá, me chamo Lívia e atualmente estou me aperfeiçoando na linguagem Java com o framework Spring. Possuo formação técnica em Informática pelo Instituto Federal do Espírito Santo e no momento estou cursando Sistemas de Informação na mesma instituição.
     </p>
     <p align="left">🌱 Estudando sobre Java e Angular.</p>
     <p align="left">🎓 Cursando Sistemas de Informação.</p>
@@ -26,8 +19,25 @@ console.log('Hello World! 👋');
         </a>
     </p>
 </div>
-<br>
-<br>
+
+</br>
+
+---
+
+### 💻 Back-End
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi&theme=light" />
+
+### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular&theme=light" />
+
+### 🛢️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mongo&theme=light" />
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=docker,figma&theme=light" />
+
+</br>
+</br>
 <div align="center">
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
