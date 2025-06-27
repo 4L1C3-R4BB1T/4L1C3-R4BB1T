@@ -37,8 +37,7 @@ console.log('Hello World! 👋');
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,figma&theme=light" />
 
 ### 💻 Outros
-
-<img src="https://skillicons.dev/icons?i=c&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,linux,bash&theme=light" />
 
 ---
 
