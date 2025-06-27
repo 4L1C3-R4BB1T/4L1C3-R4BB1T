@@ -24,7 +24,7 @@ console.log('Hello World! 👋');
 
 ---
 
-### 🧠 Back-End
+### 🧠 Back-end
 <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi,cs,dotnet&theme=light" />
 
 ### 🎨 Front-end
