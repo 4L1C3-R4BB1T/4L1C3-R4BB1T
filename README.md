@@ -28,7 +28,7 @@ console.log('Hello World! 👋');
 <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi,cs,dotnet&theme=light" />
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,ts&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,ts,jquery&theme=light" />
 
 ### 🛢️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mongo&theme=light" />
