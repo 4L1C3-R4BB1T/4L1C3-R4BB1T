@@ -67,8 +67,3 @@ console.log('Hello World! 👋');
         </a>
     </p>
 </div>
-<div align="center">
-    <a href="https://github.com/Platane/snk">
-        <img src="https://github.com/4L1C3-R4BB1T/4L1C3-R4BB1T/blob/main/assets/github-user-contribution.svg">
-    </a>
-</div>
