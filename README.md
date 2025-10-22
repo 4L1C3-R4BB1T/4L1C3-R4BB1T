@@ -22,7 +22,6 @@ console.log('Hello World! 👋');
     <li>💻 <strong>Java</strong></li>
     <li>🌐 <strong>Angular</strong></li>
     <li>🔒 <strong>Cibersegurança</strong></li>
-    <li>🎮 <strong>Desenvolvimento de Jogos</strong></li>
   </ul>
 
   <p align="left">📬 Onde me encontrar:</p>
