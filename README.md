@@ -12,8 +12,8 @@ console.log('Hello World! 👋');
   >
 
   <p align="left"> 
-    Olá, me chamo <strong>Lívia</strong> e atualmente estou me aperfeiçoando na linguagem <strong>Java</strong> com o framework <strong>Spring</strong>.
-    Possuo formação técnica em Informática pelo <strong>Instituto Federal do Espírito Santo</strong> e no momento estou cursando <strong>Sistemas de Informação</strong> na mesma instituição.
+    Olá, me chamo <strong>Lívia</strong> e atualmente estou me aperfeiçoando em <strong>Java</strong> com o framework <strong>Spring</strong>.
+    Possuo formação técnica em Informática pelo <strong>Instituto Federal do Espírito Santo</strong> e graduação em <strong>Sistemas de Informação</strong> pela mesma instituição.
   </p>
 
   <p align="left">🌱 Atualmente aprendendo sobre:</p>
