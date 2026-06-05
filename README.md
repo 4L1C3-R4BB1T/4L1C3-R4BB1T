@@ -1,68 +1,102 @@
-```js
-console.log('Hello World! 👋');
+# 👋 Olá, eu sou a Livia
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! 👋");
+    }
+}
 ```
-</br>
+
 <div>
   <img 
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-    alt="Ilustração de um computador ao lado de uma pessoa desenvolvedora" 
-    width="400px" 
-    align="right" 
-    style="margin-left: 20px; margin-bottom: 20px;"
-  >
+    alt="Ilustração de uma desenvolvedora"
+    width="350px"
+    align="right"
+  />
 
-  <p align="left"> 
-    Olá, me chamo <strong>Lívia</strong> e atualmente estou me aperfeiçoando em <strong>Java</strong> com o framework <strong>Spring</strong>.
-    Possuo formação técnica em Informática pelo <strong>Instituto Federal do Espírito Santo</strong> e graduação em <strong>Sistemas de Informação</strong> pela mesma instituição.
+  <p>
+    Sou desenvolvedora de software com formação técnica em <strong>Informática</strong> e graduação em <strong>Sistemas de Informação</strong> pelo IFES.
   </p>
 
-  <p align="left">🌱 Atualmente aprendendo sobre:</p>
+  <p>
+    Atualmente estou aprofundando meus conhecimentos em <strong>Java</strong> e <strong>Spring Boot</strong>, enquanto exploro a área de <strong>Cibersegurança</strong>.
+  </p>
 
-  <ul align="left">
-    <li>💻 <strong>Java</strong></li>
-    <li>🌐 <strong>Angular</strong></li>
-    <li>🔒 <strong>Cibersegurança</strong></li>
+  <ul>
+    <li>☕ Focada em desenvolvimento Back-end com Java</li>
+    <li>🌐 Aprendendo Angular</li>
+    <li>🔒 Estudando Segurança da Informação</li>
   </ul>
-
-  <p align="left">📬 Onde me encontrar:</p>
-
-  <p align="left">    
-    <a href="mailto:livinha.guimaraes.013@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/livia013" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
-  </p>
 </div>
 
+#### 📬 Onde me encontrar
+
+<p align="left">
+  <a href="mailto:livinha.guimaraes.013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/livia013">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-### 🧠 Back-end
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,fastapi,cs,dotnet&theme=light" />
+## 🚀 Tecnologias
 
-### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,react,ts,jquery&theme=light" />
-
-### 🛢️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mongo&theme=light" />
-
-### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,figma&theme=light" />
-
-### 💻 Outros
-<img src="https://skillicons.dev/icons?i=c,linux,bash&theme=light" />
+<table>
+  <tr>
+    <td><strong>🧠 Back-end</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,cs,dotnet&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Front-end</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,angular,react,ts,jquery&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛢️ Banco de Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongo&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,figma&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>💻 Outros</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,linux,bash&theme=light" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight">
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight">
-        </a>
-    </p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=4L1C3-R4BB1T&theme=tokyonight"
+  />
 </div>
