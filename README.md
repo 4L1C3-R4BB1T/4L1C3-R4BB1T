@@ -16,6 +16,8 @@ public class Main {
     align="right"
   />
 
+<br>
+
   <p>
     Sou desenvolvedora de software com formação técnica em <strong>Informática</strong> e graduação em <strong>Sistemas de Informação</strong> pelo IFES.
   </p>
@@ -85,18 +87,12 @@ public class Main {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=4L1C3-R4BB1T&theme=tokyonight"
-  />
+   <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4L1C3-R4BB1T&show_icons=true&theme=tokyonight">
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4L1C3-R4BB1T&layout=compact&langs_count=6&theme=tokyonight">
+        </a>
+    </p>
 </div>
