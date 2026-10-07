@@ -23,12 +23,12 @@ public class Main {
   </p>
 
   <p>
-    Atualmente estou aprofundando meus conhecimentos em <strong>Java</strong> e <strong>Spring Boot</strong>, enquanto exploro a área de <strong>Cibersegurança</strong>.
+    Atualmente estou aprofundando meus conhecimentos em <strong>desenvolvimento de software</strong>, enquanto exploro diferentes áreas da tecnologia, com interesse especial em <strong>Cibersegurança</strong>.
   </p>
 
   <ul>
-    <li>☕ Focada em desenvolvimento Back-end com Java</li>
-    <li>🌐 Aprendendo Angular</li>
+    <li>☕ Desenvolvedora e curiosa por natureza.</li>
+    <li>🧠 Explorando tecnologia, sistemas e tudo que desperta minha curiosidade.</li>
     <li>🔒 Estudando Segurança da Informação</li>
   </ul>
 </div>
